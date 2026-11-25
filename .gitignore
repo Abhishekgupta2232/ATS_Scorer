@@ -1,0 +1,13 @@
+﻿.env
+backend/.env
+frontend/.streamlit/secrets.toml
+__pycache__/
+*.pyc
+*.log
+backend/logs/
+.venv/
+venv/
+
+ML Model/
+*.safetensors
+*.bin
